@@ -2,7 +2,7 @@
 <h3>Développeur fullstack, animal du web</h3>
 <img src="https://github.com/jlarouche11/jlarouche11/blob/main/maymay.gif">
 <hr>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jlarouche11&theme=dark&locale=fr&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jlarouche11&theme=dark&hide_border=true&locale=fr&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 <hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
